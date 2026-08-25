@@ -20,7 +20,7 @@ for how the system prompt was iterated.
 ## 🎥 Demo Video
 
 <a href="https://www.youtube.com/watch?v=AK-ZdJsgP9k">
-  <img src="https://img.youtube.com/vi/AK-ZdJsgP9k/maxresdefault.jpg" alt="FailFix AI Demo" width="1000"> 
+  <img src="https://img.youtube.com/vi/AK-ZdJsgP9k/maxresdefault.jpg" alt="FailFix AI Demo" width="1000">  
 </a>
 
 ### ▶️ Watch the FailFix AI Demo

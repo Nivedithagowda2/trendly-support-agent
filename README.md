@@ -167,6 +167,6 @@ any part of this code live if shortlisted.
 
 Data Science & Machine Learning  | AI/ML Developer
 
-- LinkedIn: [Niveditha Gowda](https://www.linkedin.com/in/niveditha-89ba04356/)
+- LinkedIn: [Niveditha.](https://www.linkedin.com/in/niveditha-89ba04356/)
 
 ---

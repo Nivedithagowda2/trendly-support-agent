@@ -151,7 +151,7 @@ use the real current date.
 ## AI-usage note
 
 This project (backend architecture, tool design, policy-engine logic, prompt
-drafting, frontend, and docs) was built with Claude's help end-to-end,
+drafting, frontend, and docs) was built with  help end-to-end,
 including catching and fixing a real bug during development (an unset
 reference-date assumption that would have silently broken several of the
 dataset's intended test scenarios — see `SOLUTION.md`). Replace this note

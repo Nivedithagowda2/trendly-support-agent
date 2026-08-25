@@ -13,6 +13,22 @@ Intern screening assignment.
 See `SOLUTION.md` for architecture/trade-offs/limitations and `PROMPTS.md`
 for how the system prompt was iterated.
 
+
+---
+---
+
+## 🎥 Demo Video
+
+<a href="https://www.youtube.com/watch?v=AK-ZdJsgP9k">
+  <img src="https://img.youtube.com/vi/AK-ZdJsgP9k/maxresdefault.jpg" alt="FailFix AI Demo" width="1000">
+</a>
+
+### ▶️ Watch the FailFix AI Demo
+
+Click the video preview above to watch the complete FailFix AI demonstration on YouTube.
+
+---
+
 ## Quick start
 
 ```bash

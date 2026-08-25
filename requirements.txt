@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+# 2.12+ is required for Python 3.14 (older pydantic-core releases have no
+# compatible wheel and attempt a failing source build).
+pydantic==2.12.3
+python-dotenv==1.0.1
+# The 0.11 client is incompatible with httpx 0.28+ (it passes the removed
+# `proxies` argument) and therefore cannot start on current Python installs.
+groq==1.6.0
+google-generativeai==0.8.3
+pytest==8.3.3

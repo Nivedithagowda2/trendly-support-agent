@@ -158,3 +158,15 @@ dataset's intended test scenarios — see `SOLUTION.md`). Replace this note
 with your own honest account of what you generated vs. wrote/modified
 yourself, per the assignment's instructions — be ready to explain and modify
 any part of this code live if shortlisted.
+
+---
+
+##  Author
+
+**Niveditha **
+
+Data Science & Machine Learning  | AI/ML Developer
+
+- LinkedIn: [Niveditha Gowda](https://www.linkedin.com/in/niveditha-89ba04356/)
+
+---
